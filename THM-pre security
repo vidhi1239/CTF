@@ -1,7 +1,11 @@
 topic:- IP & MAC ADDRESS
-    Q-1 Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
-              FLAGE:-THM{YOU_GOT_ON_TRYHACKME}
+       Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+              FLAG:-THM{YOU_GOT_ON_TRYHACKME}
 
   topic:-ping(ICMP-INTERNET CONTROL MSG PROTOCOL) 
-    Q-2 What flag do you get when you ping 8.8.8.8 ?
-           FLAGE:-THM{I_PINGED_THE_SERVER}
+      What flag do you get when you ping 8.8.8.8 ?
+           FLAG:-THM{I_PINGED_THE_SERVER}
+  topic :- dns in detail
+     What is the value of the TXT record of website.thm?
+          FLAG:-THM{7012BBA60997F35A9516C2E16D2944FF}
+ 

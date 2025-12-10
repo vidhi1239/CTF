@@ -5,4 +5,6 @@
 
 2)website with mutltipe web page
  location :- pasting forbidden page into edit page
- FLAG :-^FLAG^8d429a89bef7ccb9cfc1cabef130d5d0ce3e574c28f521496dd688a48e5f3a73$FLAG$
+  URL looked like:- https://ee5ea3e5bbd5c4f96c88789c9d7f3175.ctf.hacker101.com/page/edit/8  
+                     (forbidden page:-8 , edit page:-6 )  
+  FLAG :-^FLAG^8d429a89bef7ccb9cfc1cabef130d5d0ce3e574c28f521496dd688a48e5f3a73$FLAG$

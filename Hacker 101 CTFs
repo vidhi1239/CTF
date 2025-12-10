@@ -1,3 +1,8 @@
 1)  file:- background.png 
    problem:- visibility of file with name in source code/visible code
+
    FLAG :-^FLAG^8b98c2c094c60e7ce7622141f4bdaa43612842c5742f0acab7661c2e37dcc066$FLAG$
+
+2)website with mutltipe web page
+ location :- pasting forbidden page into edit page
+ FLAG :-^FLAG^8d429a89bef7ccb9cfc1cabef130d5d0ce3e574c28f521496dd688a48e5f3a73$FLAG$

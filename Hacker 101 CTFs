@@ -1,10 +1,13 @@
 1)  file:- background.png 
    problem:- visibility of file with name in source code/visible code
-
-   FLAG :-^FLAG^8b98c2c094c60e7ce7622141f4bdaa43612842c5742f0acab7661c2e37dcc066$FLAG$
+   URL looked like:- https://6231096fa1914c2fbb00a922726d21e6.ctf.hacker101.com/background.png
+                     (background.png = exposed page)
+  
+    FLAG :-^FLAG^8b98c2c094c60e7ce7622141f4bdaa43612842c5742f0acab7661c2e37dcc066$FLAG$
 
 2)website with mutltipe web page
- location :- pasting forbidden page into edit page
+  location :- pasting forbidden page into edit page 
   URL looked like:- https://ee5ea3e5bbd5c4f96c88789c9d7f3175.ctf.hacker101.com/page/edit/8  
                      (forbidden page:-8 , edit page:-6 )  
-  FLAG :-^FLAG^8d429a89bef7ccb9cfc1cabef130d5d0ce3e574c28f521496dd688a48e5f3a73$FLAG$
+ 
+    FLAG :-^FLAG^8d429a89bef7ccb9cfc1cabef130d5d0ce3e574c28f521496dd688a48e5f3a73$FLAG$
